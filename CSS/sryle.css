@@ -1,0 +1,66 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#base{
+    background-color: black;
+    height: 100%;
+    position: relative;
+}
+#flagbase{
+    background-color: white;
+    height: 40%;
+    width: 60%;
+    position: relative;
+}
+#circle{
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: absolute;
+    top: 25%;
+    left: 34%;
+}
+#flagbase2{
+    background-color: yellow;
+    height: 40%;
+    width: 60%;
+    margin-bottom: 10%;
+    position: relative;
+    top: 0;
+}
+#a{
+   background-color: blue;
+   height: 33%;
+   width: 33%;
+   position: absolute;
+}
+#b{
+    background-color: blue;
+    height: 43%;
+   width: 33%;
+   position: absolute;
+   bottom: 0%;
+}
+#c{
+    background-color: blue;
+    height: 33%;
+   width: 50%;
+   position: absolute;
+   top: 0%;
+   right: 0%;
+}
+#d{
+    background-color: blue;
+     height: 43%;
+   width: 50%;
+   position: absolute;
+   bottom: 0%;
+   right: 0%;
+}

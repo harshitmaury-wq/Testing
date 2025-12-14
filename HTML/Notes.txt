@@ -1,0 +1,6 @@
+Div is container tag that can contain other elements even nested divs are also used.
+Id is a unique name given to a element. Every id should be unique.It is accessed by (#div_name{}).
+Class is also a name given to a element but it can be more than one. It is accessed by (.class_name{}).
+
+
+These are mostly used for collective styling.
